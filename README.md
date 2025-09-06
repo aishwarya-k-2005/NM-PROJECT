@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+# <!DOCTYPE html>
 <html>
 <head>
   <meta http-equiv="refresh" content="0; url=(https://huggingface.co/spaces/aishwarya-2005/smartsdc) />
